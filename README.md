@@ -3,11 +3,12 @@
 
 
 <br> 
-- Full-Stack Development [ HTML & CSS & PHP & JS ...]
+Yani bahsedilebilicek çok birşey yok, yaş 16 isim Mehmet Yazılıma "meraklıyım" daha "biliyorum değil, öğreniyorum" diyebilirim :) herkesin hayali olduğu gibi ana dilin dışında bir dil daha öğrenmek istiyorum. ben bu dili çoğunluk gibi İngilizce olarak seçtim. YouTube ile ilgilenmiyorum, ilgilenmeyide düşünmüyorum. şuandaki önceliğim full-stack development:) 
+
 <br/>
 
 ### Hakkımda;
-	Yani bahsedilebilicek çok birşey yok, yaş 16 isim Mehmet Yazılıma "meraklıyım" daha "biliyorum değil, öğreniyorum" diyebilirim :) herkesin hayali olduğu gibi ana dilin dışında bir dil daha öğrenmek istiyorum. ben bu dili çoğunluk gibi İngilizce olarak seçtim. YouTube ile ilgilenmiyorum, ilgilenmeyide düşünmüyorum. şuandaki önceliğim full-stack development:) 
+- Full-Stack Development [ HTML & CSS & PHP & JS ...] 
 
 ## İstatistik;
 <p align="center">
