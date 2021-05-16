@@ -7,10 +7,10 @@ Yani bahsedilebilicek çok birşey yok, yaş 16 isim Mehmet Yazılıma "meraklı
 
 <br/>
 
-### Hakkımda;
+### Kullanılan Argümanlar:
 - Full-Stack Development [ HTML & CSS & PHP & JS ...] 
 
-## İstatistik;
+## Github Verileri:
 <p align="center">
   <a href="https://github.com/Inexplicable11">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inexplicable11&layout=compact&theme=material-palenight&langs_count=12" />
@@ -22,5 +22,5 @@ Yani bahsedilebilicek çok birşey yok, yaş 16 isim Mehmet Yazılıma "meraklı
 </p>
 
 
-## İletişim: 
+## İletişim Adresi: 
 * Email: elibolmehmet2506@gmail.com
