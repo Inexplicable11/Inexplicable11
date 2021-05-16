@@ -1,5 +1,3 @@
-! [Hakkında:](https://media.discordapp.net/attachments/836700714046062655/843510934818652160/Mehmet_ELIBOL.png?width=831&height=587)
-
 <br>
 <h1>Mehmet ELİBOL</h1>
 
@@ -9,7 +7,8 @@ Yani bahsedilebilicek çok birşey yok, yaş 16 isim Mehmet Yazılıma "meraklı
 <br/>
 
 ### Kullanılan Argümanlar:
-- Full-Stack Development [ HTML & CSS & PHP & JS ...] 
+- Full-Stack Development [ HTML & CSS & PHP & JS ...] [Bilgilendirme Kartı](https://media.discordapp.net/attachments/836700714046062655/843510934818652160/Mehmet_ELIBOL.png?width=831&height=587)
+
 
 ## Github Verileri:
 <p align="center">
