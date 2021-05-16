@@ -1,7 +1,7 @@
+! [Hakkında:](https://media.discordapp.net/attachments/836700714046062655/843510934818652160/Mehmet_ELIBOL.png?width=831&height=587)
+
 <br>
 <h1>Mehmet ELİBOL</h1>
-
-! [MehmetELİBOL](https://media.discordapp.net/attachments/836700714046062655/843510934818652160/Mehmet_ELIBOL.png?width=831&height=587)
 
 <br> 
 Yani bahsedilebilicek çok birşey yok, yaş 16 isim Mehmet Yazılıma "meraklıyım" daha "biliyorum değil, öğreniyorum" diyebilirim :) herkesin hayali olduğu gibi ana dilin dışında bir dil daha öğrenmek istiyorum. ben bu dili çoğunluk gibi İngilizce olarak seçtim. YouTube ile ilgilenmiyorum, ilgilenmeyide düşünmüyorum. şuandaki önceliğim full-stack development:) 
