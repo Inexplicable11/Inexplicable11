@@ -11,7 +11,7 @@
 
 ## İstatistik;
 <p align="center">
-  <a href="https://github.com/favixl">
+  <a href="https://github.com/Inexplicable11">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inexplicable11&layout=compact&theme=material-palenight&langs_count=12" />
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Inexplicable11&show_icons=true&include_all_commits=true&theme=material-palenight" /> <br>
 	<center> 
@@ -23,7 +23,3 @@
 
 ## İletişim: 
 * Email: elibolmehmet2506@gmail.com
-
-## Discord:
-
-  <div align="center"><img href="https://github.com/Inexplicable11" src="https://discord.c99.nl/widget/theme-2/657925820731621397.png"></div>
